@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+header
+{
+	background-color: violet;
+}
+
+div
+{
+	background-color: yellow;
+}
+
+footer
+{
+	background-color: red;
+}
